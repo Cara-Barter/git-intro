@@ -1,2 +1,5 @@
-My cats name is Yoshi
-He is very soft and cuddly
+git status
+git add .
+git commit-m "message"
+git status
+
